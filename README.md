@@ -4,7 +4,7 @@
 The goal of this project was to learn how to use HTML to make a table which 
 contains a fairly large amounts of data.
 
-> Live demo [_here_](#)
+> Live demo [_here_](https://rzvl.github.io/planets-data-table/)
 
 
 ## General Information
