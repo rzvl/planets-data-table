@@ -12,7 +12,7 @@ contains a fairly large amounts of data.
 This is a table which depicts the data about the planets of our solar system. 
 The planetary facts taken from [Nasa's Planetary Fact Sheet - Metric](http://nssdc.gsfc.nasa.gov/planetary/factsheet/).
 
-Source: [Structuring a page of content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data)
+Source: [Structuring planet data](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data)
 
 
 ## Technologies Used
